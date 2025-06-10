@@ -1,0 +1,13 @@
+{
+  "name": "a9-gobots-sample",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "@forge/bridge": "^2.0.0"
+  },
+  "scripts": {
+    "start": "echo 'Run forge tunnel to start'",
+    "build": "echo 'Run forge deploy to build'"
+  }
+}

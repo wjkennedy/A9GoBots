@@ -1,0 +1,3 @@
+Scope,Description
+read:jira-work,Access Jira work data
+manage:jira-project,Manage Jira projects

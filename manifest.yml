@@ -1,0 +1,14 @@
+modules:
+  confluence:contentBylineItem:
+    - key: a9-gobots-sample
+      resource: main
+      resolver: resolver
+app:
+  id: ari:cloud:ecosystem::app/12345678-1234-1234-1234-1234567890ab
+  name: A9 GoBots Sample
+permissions:
+  scopes:
+    - read:confluence-content.summary
+resources:
+  - key: main
+    path: static
